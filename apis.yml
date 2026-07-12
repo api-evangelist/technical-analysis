@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://technical-analysis-api.com
 common:
+  - type: DomainSecurity
+    url: security/technical-analysis-domain-security.yml
   - type: Website
     url: https://technical-analysis-api.com
   - type: PublicAPIsListing
