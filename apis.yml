@@ -39,7 +39,6 @@ apis:
   - name: Technical Analysis
     description: "Cryptocurrency prices and technical analysis"
     humanURL: https://technical-analysis-api.com
-    baseURL: https://technical-analysis-api.com
     tags:
       - Cryptocurrency
     properties:
